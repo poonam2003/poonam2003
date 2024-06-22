@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poonam</h1>
 <h3 align="center">Data Analyst | Analytical Thinker</h3>
 
-- 🌱 I’m currently learning **Data Analytics Course**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/poonam2003](https://github.com/poonam2003)
 
